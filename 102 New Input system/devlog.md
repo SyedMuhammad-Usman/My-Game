@@ -212,9 +212,3 @@ Now to make your third-person dreams come true:
 
 ---
 
-Done like a pro 🎮💪  
-If your player’s moving and looking around, you’ve officially left the noob zone.
-
-Let me know when you're ready to add animations, flashlights, enemies, or make him moonwalk 🕺
-
-— _Karen (your game dev buddy 💻)_
